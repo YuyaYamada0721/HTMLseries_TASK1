@@ -1,0 +1,51 @@
+dt {
+  font-weight: bold;
+  float: left;
+  width: 150px;
+  padding: 0.25rem 0;
+  text-align: right;
+}
+
+dd {
+  float: left;
+  border: solid 1px black;
+  width: 480px;
+  margin-left: 10px;
+  height: 2rem;
+  border-radius: 4px;
+}
+
+.inputfield {
+  margin-bottom: 40px;
+}
+
+.inputfield-radio {
+  margin-bottom: 40px;
+}
+
+.inputfield-radio dd {
+  border: none;
+  padding: 0.25rem 0;
+  width: 30px;
+}
+
+.inputfield-many {
+  margin-bottom: 40px;
+}
+
+.inputfield-many dd {
+  height: 7rem;
+}
+
+button {
+  font-size: 3rem;
+  padding: 10px;
+  background-color: #009393;
+  color: #fff;
+  margin: 0 auto;
+  display: block;
+}
+
+button:hover {
+  opacity: 0.5;
+}
